@@ -1,0 +1,11 @@
+{
+  "name": "Sam Eletrônicos",
+  "description": "Sistema de Gestão Técnica e Ordens de Serviço",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
